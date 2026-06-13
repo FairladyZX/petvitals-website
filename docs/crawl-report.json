@@ -1,0 +1,1012 @@
+{
+  "generatedAt": "2026-05-23T21:51:51.810Z",
+  "pages": [
+    {
+      "path": "/",
+      "url": "https://www.petvitals.app/",
+      "status": 200,
+      "title": "PetVitals App | pet health app",
+      "description": "PetVitals App: Your all-in-one solution for pet care. Seamlessly store and manage your pet",
+      "ogImage": ""
+    },
+    {
+      "path": "/features",
+      "url": "https://www.petvitals.app/features",
+      "status": 200,
+      "title": "Features | Petvitals",
+      "description": "Explore the robust features of PetVitals, the ultimate pet health companion app. Safeguard your pet",
+      "ogImage": ""
+    },
+    {
+      "path": "/about",
+      "url": "https://www.petvitals.app/about",
+      "status": 200,
+      "title": "About | Petvitals",
+      "description": "Discover the story behind PetVitals, your ultimate pet health companion app. Our innovative solution is designed to safeguard your pet",
+      "ogImage": ""
+    },
+    {
+      "path": "/blog",
+      "url": "https://www.petvitals.app/blog",
+      "status": 200,
+      "title": "Blog | Petvitals",
+      "description": "",
+      "ogImage": ""
+    },
+    {
+      "path": "/terms",
+      "url": "https://www.petvitals.app/terms",
+      "status": 200,
+      "title": "Terms | Petvitals",
+      "description": "Explore the terms that govern your journey with PetVitals, the innovative app dedicated to safeguarding your pet",
+      "ogImage": ""
+    },
+    {
+      "path": "/privacy",
+      "url": "https://www.petvitals.app/privacy",
+      "status": 200,
+      "title": "Privacy | Petvitals",
+      "description": "Explore PetVitals",
+      "ogImage": ""
+    },
+    {
+      "path": "/contactus",
+      "url": "https://www.petvitals.app/contactus",
+      "status": 200,
+      "title": "Contact Us | Petvitals",
+      "description": "Have questions or feedback about PetVitals, your ultimate pet health companion app? Contact us today to connect with our dedicated team. We",
+      "ogImage": ""
+    },
+    {
+      "path": "/account-deletion",
+      "url": "https://www.petvitals.app/account-deletion",
+      "status": 200,
+      "title": "Account Deletion | Petvitals",
+      "description": "",
+      "ogImage": ""
+    }
+  ],
+  "assetCount": 156,
+  "assets": [
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b%7Emv2.png",
+      "file": "/assets/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b-mv2.png",
+      "bytes": 13837,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b%7Emv2.png",
+      "file": "/assets/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b-mv2-1.png",
+      "bytes": 1579,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b%7Emv2.png",
+      "file": "/assets/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b-mv2-2.png",
+      "bytes": 12585,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png/v1/fill/w_167,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PetVitalsLogo.png",
+      "file": "/assets/PetVitalsLogo.png",
+      "bytes": 11350,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png/v1/fill/w_167,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PetVitalsLogo.png",
+      "file": "/assets/PetVitalsLogo-1.png",
+      "bytes": 10548,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png/v1/fill/w_334,h_232,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PetVitalsLogo.png",
+      "file": "/assets/PetVitalsLogo-2.png",
+      "bytes": 33099,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_63bc62498d294d9bbcc9c814ee40176b~mv2.png/v1/fill/w_133,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/English_3x.png",
+      "file": "/assets/English_3x.png",
+      "bytes": 4805,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_63bc62498d294d9bbcc9c814ee40176b~mv2.png/v1/fill/w_266,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/English_3x.png",
+      "file": "/assets/English_3x-1.png",
+      "bytes": 10156,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_420cede19a68433ebfd8d57f0430ac09~mv2.png/v1/fill/w_133,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/English_3x.png",
+      "file": "/assets/English_3x-2.png",
+      "bytes": 4179,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_420cede19a68433ebfd8d57f0430ac09~mv2.png/v1/fill/w_266,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/English_3x.png",
+      "file": "/assets/English_3x-3.png",
+      "bytes": 9564,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_af53dfcce59a4e308941c51a343a1825~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design-4.png",
+      "file": "/assets/Untitled-design-4.png",
+      "bytes": 403872,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_af53dfcce59a4e308941c51a343a1825~mv2.png/v1/fill/w_1200,h_1200,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design-4.png",
+      "file": "/assets/Untitled-design-4-1.png",
+      "bytes": 1287368,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_33bc5d8abadb497c9567f679a78a758f~mv2.png/v1/fill/w_53,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+      "file": "/assets/2.png",
+      "bytes": 1903,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_33bc5d8abadb497c9567f679a78a758f~mv2.png/v1/fill/w_106,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+      "file": "/assets/2-1.png",
+      "bytes": 3634,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d4b157379d7c48518c11da11aeac713b~mv2.png/v1/fill/w_53,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3.png",
+      "bytes": 2679,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d4b157379d7c48518c11da11aeac713b~mv2.png/v1/fill/w_106,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-1.png",
+      "bytes": 5119,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b2e6849422fa4e8a8b8b51f42b27b4f9~mv2.png/v1/fill/w_472,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-6.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-6.png",
+      "bytes": 119114,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b2e6849422fa4e8a8b8b51f42b27b4f9~mv2.png/v1/fill/w_944,h_944,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-6.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-6-1.png",
+      "bytes": 450287,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_4426ce16e7f8490ebaded8bf16843463~mv2.png/v1/fill/w_62,h_47,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-2.png",
+      "bytes": 5482,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_4426ce16e7f8490ebaded8bf16843463~mv2.png/v1/fill/w_124,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-3.png",
+      "bytes": 13865,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_7ac419a4ab72493f94eef3c836f51ca2~mv2.png/v1/fill/w_472,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-5.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-5.png",
+      "bytes": 128531,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_7ac419a4ab72493f94eef3c836f51ca2~mv2.png/v1/fill/w_944,h_944,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-5.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-5-1.png",
+      "bytes": 491390,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_0d2dbd8e883842a4a99ef8ff23a3d77b~mv2.png/v1/fill/w_62,h_47,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png",
+      "file": "/assets/4.png",
+      "bytes": 4553,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_0d2dbd8e883842a4a99ef8ff23a3d77b~mv2.png/v1/fill/w_124,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png",
+      "file": "/assets/4-1.png",
+      "bytes": 10745,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e7e7f035d4fd468bbf0f52f32f45015d~mv2.png/v1/fill/w_472,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-4.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-4.png",
+      "bytes": 107969,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e7e7f035d4fd468bbf0f52f32f45015d~mv2.png/v1/fill/w_944,h_944,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-4.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-4-1.png",
+      "bytes": 420606,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_cbfbc664b36641cf85e063291dfe4c00~mv2.png/v1/fill/w_62,h_47,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png",
+      "file": "/assets/5.png",
+      "bytes": 2626,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_cbfbc664b36641cf85e063291dfe4c00~mv2.png/v1/fill/w_124,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png",
+      "file": "/assets/5-1.png",
+      "bytes": 4692,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_876255bd056d45c3b706fc4e702e3140~mv2.png/v1/crop/x_0,y_12,w_1080,h_1055/fill/w_191,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(20",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-20.png",
+      "bytes": 10134,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_876255bd056d45c3b706fc4e702e3140~mv2.png/v1/crop/x_0,y_12,w_1080,h_1055/fill/w_382,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(20",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-20-1.png",
+      "bytes": 22873,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_2cfea86770524b3990d28d43bbf2fca8~mv2.png/v1/crop/x_0,y_11,w_1080,h_1059/fill/w_191,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(23",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-23.png",
+      "bytes": 10225,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_2cfea86770524b3990d28d43bbf2fca8~mv2.png/v1/crop/x_0,y_11,w_1080,h_1059/fill/w_382,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(23",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-23-1.png",
+      "bytes": 27401,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e1180d1ef6a64046b076d49da21cf6f6~mv2.png/v1/crop/x_79,y_88,w_921,h_903/fill/w_191,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(21",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-21.png",
+      "bytes": 11411,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e1180d1ef6a64046b076d49da21cf6f6~mv2.png/v1/crop/x_79,y_88,w_921,h_903/fill/w_382,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(21",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-21-1.png",
+      "bytes": 29659,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d7d3a2f6a3f54988a0185c5216893db0~mv2.png/v1/crop/x_102,y_110,w_877,h_860/fill/w_191,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(24",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-24.png",
+      "bytes": 10454,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d7d3a2f6a3f54988a0185c5216893db0~mv2.png/v1/crop/x_102,y_110,w_877,h_860/fill/w_382,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(24",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-24-1.png",
+      "bytes": 28713,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_a0717e92351642b9b5be9fff630c4b3a~mv2.png/v1/crop/x_0,y_11,w_1080,h_1059/fill/w_191,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(22",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-22.png",
+      "bytes": 12147,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_a0717e92351642b9b5be9fff630c4b3a~mv2.png/v1/crop/x_0,y_11,w_1080,h_1059/fill/w_382,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(22",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-22-1.png",
+      "bytes": 35251,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_bc5ba29c0247443396d06189e3422a70~mv2.png/v1/crop/x_137,y_145,w_806,h_790/fill/w_191,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(22",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-22-2.png",
+      "bytes": 14220,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_bc5ba29c0247443396d06189e3422a70~mv2.png/v1/crop/x_137,y_145,w_806,h_790/fill/w_382,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(22",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-22-3.png",
+      "bytes": 38150,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106.png",
+      "bytes": 64380,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e708b27d646846018236d515b06a98d1~mv2.png/v1/fill/w_714,h_714,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-10.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-10.png",
+      "bytes": 252029,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e708b27d646846018236d515b06a98d1~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-10.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-10-1.png",
+      "bytes": 387723,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_148132972b3045f28fdfe8091ae5c0bc~mv2.png/v1/fill/w_689,h_689,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/49.png",
+      "file": "/assets/49.png",
+      "bytes": 270225,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_148132972b3045f28fdfe8091ae5c0bc~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/49.png",
+      "file": "/assets/49-1.png",
+      "bytes": 446615,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_33bc5d8abadb497c9567f679a78a758f~mv2.png/v1/fill/w_44,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+      "file": "/assets/2-2.png",
+      "bytes": 1635,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_33bc5d8abadb497c9567f679a78a758f~mv2.png/v1/fill/w_88,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+      "file": "/assets/2-3.png",
+      "bytes": 3042,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d4b157379d7c48518c11da11aeac713b~mv2.png/v1/fill/w_44,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-4.png",
+      "bytes": 2389,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d4b157379d7c48518c11da11aeac713b~mv2.png/v1/fill/w_88,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-5.png",
+      "bytes": 4283,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/11062b_3bdb666e13074a17baa75d906d18f214f000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_3bdb666e13074a17baa75d906d18f214f000.jpg",
+      "file": "/assets/11062b_3bdb666e13074a17baa75d906d18f214f000.jpg",
+      "bytes": 3132,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_acecb4916f924555b20216aac5f7ad71~mv2.png/v1/fill/w_319,h_390,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(25",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-25.png",
+      "bytes": 97170,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_acecb4916f924555b20216aac5f7ad71~mv2.png/v1/fill/w_638,h_780,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(25",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-25-1.png",
+      "bytes": 342027,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_9398a62708a146c0ab7533b72ddd06f1~mv2.png/v1/fill/w_304,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e41491f5-c7c6-424d-8606-8ea9fc423539.png",
+      "file": "/assets/e41491f5-c7c6-424d-8606-8ea9fc423539.png",
+      "bytes": 22592,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_9398a62708a146c0ab7533b72ddd06f1~mv2.png/v1/fill/w_608,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e41491f5-c7c6-424d-8606-8ea9fc423539.png",
+      "file": "/assets/e41491f5-c7c6-424d-8606-8ea9fc423539-1.png",
+      "bytes": 77771,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_aa328cf30db041879f0433fb18b91a3e~mv2.png/v1/fill/w_310,h_265,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3ad9c0b1-1abb-49f2-9a03-38c47e1cbd67.png",
+      "file": "/assets/3ad9c0b1-1abb-49f2-9a03-38c47e1cbd67.png",
+      "bytes": 31110,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_aa328cf30db041879f0433fb18b91a3e~mv2.png/v1/fill/w_620,h_530,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3ad9c0b1-1abb-49f2-9a03-38c47e1cbd67.png",
+      "file": "/assets/3ad9c0b1-1abb-49f2-9a03-38c47e1cbd67-1.png",
+      "bytes": 77398,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_94357b271e114100a50bc185aa35c043~mv2.png/v1/crop/x_0,y_0,w_1080,h_904/fill/w_577,h_483,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(27",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-27.png",
+      "bytes": 344435,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_94357b271e114100a50bc185aa35c043~mv2.png/v1/crop/x_0,y_0,w_1080,h_904/fill/w_1080,h_904,al_c,q_90,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post%20(27",
+      "error": "HTTP 403"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png/v1/fill/w_261,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png",
+      "file": "/assets/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b-mv2-3.png",
+      "bytes": 25309,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png/v1/fill/w_522,h_562,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b~mv2.png",
+      "file": "/assets/c0b3c0_16b7a06ad6364453bbc5efe7c67bbc4b-mv2-4.png",
+      "bytes": 69285,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_33,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "file": "/assets/e1aa082f7c0747168d9cf43e77046142.png",
+      "bytes": 1393,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e1aa082f7c0747168d9cf43e77046142.png",
+      "file": "/assets/e1aa082f7c0747168d9cf43e77046142-1.png",
+      "bytes": 2024,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_33,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4057345bcf57474b96976284050c00df.png",
+      "file": "/assets/4057345bcf57474b96976284050c00df.png",
+      "bytes": 1331,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4057345bcf57474b96976284050c00df.png",
+      "file": "/assets/4057345bcf57474b96976284050c00df-1.png",
+      "bytes": 2285,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/870f97661ed14a5bb2d96ecbddec0aed.png/v1/fill/w_33,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/870f97661ed14a5bb2d96ecbddec0aed.png",
+      "file": "/assets/870f97661ed14a5bb2d96ecbddec0aed.png",
+      "bytes": 1340,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/870f97661ed14a5bb2d96ecbddec0aed.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/870f97661ed14a5bb2d96ecbddec0aed.png",
+      "file": "/assets/870f97661ed14a5bb2d96ecbddec0aed-1.png",
+      "bytes": 2495,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/45bce1d726f64f1999c49feae57f6298.png/v1/fill/w_33,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/45bce1d726f64f1999c49feae57f6298.png",
+      "file": "/assets/45bce1d726f64f1999c49feae57f6298.png",
+      "bytes": 1290,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/45bce1d726f64f1999c49feae57f6298.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/45bce1d726f64f1999c49feae57f6298.png",
+      "file": "/assets/45bce1d726f64f1999c49feae57f6298-1.png",
+      "bytes": 2087,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png/v1/fill/w_33,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "file": "/assets/11062b_66167d61316d4665841f3397360d54a9-mv2.png",
+      "bytes": 1380,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_66167d61316d4665841f3397360d54a9~mv2.png",
+      "file": "/assets/11062b_66167d61316d4665841f3397360d54a9-mv2-1.png",
+      "bytes": 2300,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_20259a0cfe034442b827d4ae9e4bf4bd~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c0b3c0_20259a0cfe034442b827d4ae9e4bf4bd~mv2.png",
+      "file": "/assets/c0b3c0_20259a0cfe034442b827d4ae9e4bf4bd-mv2.png",
+      "bytes": 2958,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_33bc5d8abadb497c9567f679a78a758f~mv2.png/v1/fill/w_34,h_26,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+      "file": "/assets/2-4.png",
+      "bytes": 1285,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_33bc5d8abadb497c9567f679a78a758f~mv2.png/v1/fill/w_68,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png",
+      "file": "/assets/2-5.png",
+      "bytes": 2348,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d4b157379d7c48518c11da11aeac713b~mv2.png/v1/fill/w_34,h_26,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-6.png",
+      "bytes": 1910,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d4b157379d7c48518c11da11aeac713b~mv2.png/v1/fill/w_68,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png",
+      "file": "/assets/3-7.png",
+      "bytes": 3201,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/fill/w_548,h_548,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-1.png",
+      "bytes": 43575,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/fill/w_562,h_562,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-2.png",
+      "bytes": 45341,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/crop/x_0,y_0,w_797,h_797/fill/w_443,h_443,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-3.png",
+      "bytes": 37068,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/crop/x_0,y_0,w_797,h_797/fill/w_797,h_797,al_c,q_90,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-4.png",
+      "bytes": 45855,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-5.png",
+      "bytes": 51415,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/fill/w_592,h_592,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-6.png",
+      "bytes": 49910,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/crop/x_0,y_0,w_517,h_446/fill/w_287,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-7.png",
+      "bytes": 20126,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_b74112271936491a8e2639a41a50ee54~mv2.png/v1/crop/x_0,y_0,w_517,h_446/fill/w_574,h_496,al_c,lg_1,q_85,enc_avif,quality_auto/Untitled%20design%20-%202023-10-13T161256_106.png",
+      "file": "/assets/Untitled-design-2023-10-13T161256_106-8.png",
+      "bytes": 40049,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_cca99d4d585f4c4080309afe67e702dd~mv2.png/v1/fill/w_678,h_678,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/50.png",
+      "file": "/assets/50.png",
+      "bytes": 238000,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_cca99d4d585f4c4080309afe67e702dd~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/50.png",
+      "file": "/assets/50-1.png",
+      "bytes": 454070,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_835cc266fdf9452e9e66acc91254d0bb~mv2.png/v1/fill/w_695,h_695,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/48.png",
+      "file": "/assets/48.png",
+      "bytes": 269667,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_835cc266fdf9452e9e66acc91254d0bb~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/48.png",
+      "file": "/assets/48-1.png",
+      "bytes": 408362,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f2c81d90857a41df8c37a86c5cfdefc0~mv2.png/v1/fill/w_682,h_682,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/48.png",
+      "file": "/assets/48-2.png",
+      "bytes": 155860,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f2c81d90857a41df8c37a86c5cfdefc0~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/48.png",
+      "file": "/assets/48-3.png",
+      "bytes": 244895,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_524,h_295,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2.png",
+      "bytes": 10134,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_1048,h_590,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-1.png",
+      "bytes": 24472,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_534,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-2.png",
+      "bytes": 10393,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_1068,h_600,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-3.png",
+      "bytes": 25299,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_294,h_165,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-4.png",
+      "bytes": 3643,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_588,h_330,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-5.png",
+      "bytes": 11545,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_45593200431949e9b2074f98f52fb1e1~mv2.png/v1/fill/w_683,h_683,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/51.png",
+      "file": "/assets/51.png",
+      "bytes": 252620,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_45593200431949e9b2074f98f52fb1e1~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/51.png",
+      "file": "/assets/51-1.png",
+      "bytes": 452893,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_604,h_340,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-6.png",
+      "bytes": 10722,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/fill/w_1208,h_680,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-7.png",
+      "bytes": 29277,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f82612a7316f43c09aef549af6fb3410~mv2.png/v1/fill/w_678,h_678,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-7.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-7.png",
+      "bytes": 158794,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f82612a7316f43c09aef549af6fb3410~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-7.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-7-1.png",
+      "bytes": 257459,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/crop/x_343,y_269,w_648,h_165/fill/w_306,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-8.png",
+      "bytes": 9980,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5a9bbee2c67f4debbdb98ebf4d07e2c5~mv2.png/v1/crop/x_343,y_269,w_648,h_165/fill/w_612,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nurburgring%20(2",
+      "file": "/assets/Nurburgring-2-9.png",
+      "bytes": 24155,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_02418c56be8c4d90be44f8cca3cc10fb~mv2.png/v1/fill/w_673,h_673,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-8.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-8.png",
+      "bytes": 187998,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_02418c56be8c4d90be44f8cca3cc10fb~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-8.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-8-1.png",
+      "bytes": 309855,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_566ab4fa8a4e408787c7bb2deded3d9b~mv2.png/v1/fill/w_678,h_678,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/49.png",
+      "file": "/assets/49-2.png",
+      "bytes": 187699,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_566ab4fa8a4e408787c7bb2deded3d9b~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/49.png",
+      "file": "/assets/49-3.png",
+      "bytes": 310370,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_cca99d4d585f4c4080309afe67e702dd~mv2.png/v1/fill/w_808,h_808,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/50.png",
+      "file": "/assets/50-2.png",
+      "bytes": 322207,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e39889ec30b248f483be8c7aa0025b86~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/25849076-26c9-489d-895c-a080de5f406b.png",
+      "file": "/assets/25849076-26c9-489d-895c-a080de5f406b.png",
+      "bytes": 3515,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_e39889ec30b248f483be8c7aa0025b86~mv2.png/v1/fill/w_154,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/25849076-26c9-489d-895c-a080de5f406b.png",
+      "file": "/assets/25849076-26c9-489d-895c-a080de5f406b-1.png",
+      "bytes": 9161,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5efbbbf867bd4799920f347db6470d5e~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/eb83e715-2fe8-454f-8bdc-fb8846ad813e.png",
+      "file": "/assets/eb83e715-2fe8-454f-8bdc-fb8846ad813e.png",
+      "bytes": 2798,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_5efbbbf867bd4799920f347db6470d5e~mv2.png/v1/fill/w_154,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/eb83e715-2fe8-454f-8bdc-fb8846ad813e.png",
+      "file": "/assets/eb83e715-2fe8-454f-8bdc-fb8846ad813e-1.png",
+      "bytes": 6881,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_bd8f215999bb49518ba93918b564c815~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bf0f8e5d-7b90-4da3-9e65-aa2dcdc2dd29.png",
+      "file": "/assets/bf0f8e5d-7b90-4da3-9e65-aa2dcdc2dd29.png",
+      "bytes": 2283,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_bd8f215999bb49518ba93918b564c815~mv2.png/v1/fill/w_154,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bf0f8e5d-7b90-4da3-9e65-aa2dcdc2dd29.png",
+      "file": "/assets/bf0f8e5d-7b90-4da3-9e65-aa2dcdc2dd29-1.png",
+      "bytes": 4443,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_0f5c8c2630e844eb857c28c5ac7b5879~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(6",
+      "file": "/assets/Your-Pet-6.png",
+      "bytes": 2726,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_0f5c8c2630e844eb857c28c5ac7b5879~mv2.png/v1/fill/w_154,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(6",
+      "file": "/assets/Your-Pet-6-1.png",
+      "bytes": 5862,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_af15b49011824707996a385600380813~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(5",
+      "file": "/assets/Your-Pet-5.png",
+      "bytes": 2940,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_af15b49011824707996a385600380813~mv2.png/v1/fill/w_154,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(5",
+      "file": "/assets/Your-Pet-5-1.png",
+      "bytes": 7539,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f1464c2f04f04a91a280c7ebdf796529~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(4",
+      "file": "/assets/Your-Pet-4.png",
+      "bytes": 2069,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f1464c2f04f04a91a280c7ebdf796529~mv2.png/v1/fill/w_154,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(4",
+      "file": "/assets/Your-Pet-4-1.png",
+      "bytes": 4316,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_7b69e03d43f64740879a23c5840b59cb~mv2.png/v1/fill/w_1037,h_582,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/8b2d48d6-a62a-4ad0-a543-444579bc9933.png",
+      "file": "/assets/8b2d48d6-a62a-4ad0-a543-444579bc9933.png",
+      "bytes": 1639797,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_7b69e03d43f64740879a23c5840b59cb~mv2.png/v1/fill/w_2074,h_1164,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/8b2d48d6-a62a-4ad0-a543-444579bc9933.png",
+      "file": "/assets/8b2d48d6-a62a-4ad0-a543-444579bc9933-1.png",
+      "bytes": 5833682,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_649ab2c90e5a4e0db6025a0e8f1ac2bb~mv2.png/v1/fill/w_554,h_554,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet.png",
+      "file": "/assets/Your-Pet.png",
+      "bytes": 38478,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_649ab2c90e5a4e0db6025a0e8f1ac2bb~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/Your%20Pet.png",
+      "file": "/assets/Your-Pet-1.png",
+      "bytes": 48978,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_dd137b6a49394397a7e6c65b955ac647~mv2.png/v1/fill/w_427,h_427,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(1",
+      "file": "/assets/Your-Pet-1-1.png",
+      "bytes": 19198,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_dd137b6a49394397a7e6c65b955ac647~mv2.png/v1/fill/w_854,h_854,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(1",
+      "file": "/assets/Your-Pet-1-2.png",
+      "bytes": 65150,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_bbcf1f5936254d219227351680abb6f4~mv2.png/v1/fill/w_471,h_471,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(2",
+      "file": "/assets/Your-Pet-2.png",
+      "bytes": 26431,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_bbcf1f5936254d219227351680abb6f4~mv2.png/v1/fill/w_942,h_942,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(2",
+      "file": "/assets/Your-Pet-2-1.png",
+      "bytes": 69580,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d53c22a17e1c4f9f8da200bedcab59b1~mv2.png/v1/fill/w_423,h_423,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/45675655-9e3a-4648-9f98-fea0dfbacc1c.png",
+      "file": "/assets/45675655-9e3a-4648-9f98-fea0dfbacc1c.png",
+      "bytes": 252344,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_d53c22a17e1c4f9f8da200bedcab59b1~mv2.png/v1/fill/w_846,h_846,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/45675655-9e3a-4648-9f98-fea0dfbacc1c.png",
+      "file": "/assets/45675655-9e3a-4648-9f98-fea0dfbacc1c-1.png",
+      "bytes": 888336,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_84ea7575aa22434f8891535832ece774~mv2.png/v1/fill/w_600,h_338,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/71c03033-4ed0-42ab-ab3c-d7e70c4e8f17.png",
+      "file": "/assets/71c03033-4ed0-42ab-ab3c-d7e70c4e8f17.png",
+      "bytes": 396010,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_84ea7575aa22434f8891535832ece774~mv2.png/v1/fill/w_1200,h_676,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/71c03033-4ed0-42ab-ab3c-d7e70c4e8f17.png",
+      "file": "/assets/71c03033-4ed0-42ab-ab3c-d7e70c4e8f17-1.png",
+      "bytes": 1541803,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f14eaab180da4800aaf2f497755eb6f3~mv2.png/v1/fill/w_415,h_415,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/797ce3c2-68fb-4029-881f-96ae92b5a719.png",
+      "file": "/assets/797ce3c2-68fb-4029-881f-96ae92b5a719.png",
+      "bytes": 161647,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f14eaab180da4800aaf2f497755eb6f3~mv2.png/v1/fill/w_830,h_830,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/797ce3c2-68fb-4029-881f-96ae92b5a719.png",
+      "file": "/assets/797ce3c2-68fb-4029-881f-96ae92b5a719-1.png",
+      "bytes": 682905,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_786e3d0274e242c693c118259364d89d~mv2.png/v1/fill/w_468,h_468,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(3",
+      "file": "/assets/Your-Pet-3.png",
+      "bytes": 281151,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_786e3d0274e242c693c118259364d89d~mv2.png/v1/fill/w_936,h_936,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Your%20Pet%20(3",
+      "file": "/assets/Your-Pet-3-1.png",
+      "bytes": 1047493,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/11062b_33a4bf6902264ba28031702736a82f39f000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_33a4bf6902264ba28031702736a82f39f000.jpg",
+      "file": "/assets/11062b_33a4bf6902264ba28031702736a82f39f000.jpg",
+      "bytes": 1797,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f9f6feb3a94e442fb1806099a8694926~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-11.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-11.png",
+      "bytes": 135309,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_f9f6feb3a94e442fb1806099a8694926~mv2.png/v1/fill/w_1200,h_1200,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yellow%20Simple%20Download%20Our%20Apps%20Now%20Instagram%20Post-11.png",
+      "file": "/assets/Yellow-Simple-Download-Our-Apps-Now-Instagram-Post-11-1.png",
+      "bytes": 491133,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2.jpg",
+      "bytes": 4743,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_675,h_675,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2-1.jpg",
+      "bytes": 25083,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_250,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.webp",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2.webp",
+      "bytes": 4743,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_675,h_675,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.webp",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2-1.webp",
+      "bytes": 25083,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_454,h_454,fp_0.50_0.50,q_90,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2-2.jpg",
+      "bytes": 46005,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_675,h_675,fp_0.50_0.50,q_90,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2-3.jpg",
+      "bytes": 80045,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_454,h_454,fp_0.50_0.50,q_90,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.webp",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2-2.webp",
+      "bytes": 46005,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.jpg/v1/fill/w_675,h_675,fp_0.50_0.50,q_90,enc_avif,quality_auto/c0b3c0_07f218407ee84619ad9fd703cf7200ca~mv2.webp",
+      "file": "/assets/c0b3c0_07f218407ee84619ad9fd703cf7200ca-mv2-3.webp",
+      "bytes": 80045,
+      "contentType": "image/jpeg"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_250,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2.png",
+      "bytes": 72550,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_768,h_768,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2-1.png",
+      "bytes": 560256,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_250,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.webp",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2.webp",
+      "bytes": 72550,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_768,h_768,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.webp",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2-1.webp",
+      "bytes": 560256,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_454,h_454,fp_0.50_0.50,q_95,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2-2.png",
+      "bytes": 423158,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_768,h_768,fp_0.50_0.50,q_95,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2-3.png",
+      "bytes": 993571,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_454,h_454,fp_0.50_0.50,q_95,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.webp",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2-2.webp",
+      "bytes": 423158,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.png/v1/fill/w_768,h_768,fp_0.50_0.50,q_95,enc_avif,quality_auto/c0b3c0_ec5fac6e945647799f0249c06a654c94~mv2.webp",
+      "file": "/assets/c0b3c0_ec5fac6e945647799f0249c06a654c94-mv2-3.webp",
+      "bytes": 993571,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_946310b584cf46259a71ac7b21f1def1~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20-%202023-11-08T202935_250.png",
+      "file": "/assets/Untitled-design-2023-11-08T202935_250.png",
+      "bytes": 203575,
+      "contentType": "image/png"
+    },
+    {
+      "source": "https://static.wixstatic.com/media/c0b3c0_946310b584cf46259a71ac7b21f1def1~mv2.png/v1/fill/w_1080,h_1080,al_c,q_90,enc_avif,quality_auto/Untitled%20design%20-%202023-11-08T202935_250.png",
+      "file": "/assets/Untitled-design-2023-11-08T202935_250-1.png",
+      "bytes": 616400,
+      "contentType": "image/png"
+    }
+  ]
+}
