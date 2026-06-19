@@ -56,84 +56,14 @@ summary::-webkit-details-marker {
   outline-offset: 3px;
 }
 
-.paw-step {
-  animation: paw-walk 900ms ease-out both;
-  display: inline-flex;
-}
-
-.paw-print {
-  display: inline-block;
-  height: 24px;
-  position: relative;
-  width: 24px;
-}
-
-.paw-print--right {
-  transform: rotate(96deg);
-}
-
-.paw-print--left {
-  transform: rotate(-84deg);
-}
-
-.paw-print span {
-  background: var(--brand-blue-dark);
-  display: block;
-  position: absolute;
-}
-
-.paw-print span:nth-child(1) {
-  border-radius: 999px 999px 80% 80%;
-  height: 11px;
-  left: 7px;
-  top: 11px;
-  width: 12px;
-}
-
-.paw-print span:nth-child(2),
-.paw-print span:nth-child(3),
-.paw-print span:nth-child(4),
-.paw-print span:nth-child(5) {
-  border-radius: 999px;
-  height: 7px;
-  width: 6px;
-}
-
-.paw-print span:nth-child(2) {
-  left: 2px;
-  top: 7px;
-  transform: rotate(-24deg);
-}
-
-.paw-print span:nth-child(3) {
-  left: 7px;
-  top: 1px;
-  transform: rotate(-8deg);
-}
-
-.paw-print span:nth-child(4) {
-  right: 5px;
-  top: 1px;
-  transform: rotate(8deg);
-}
-
-.paw-print span:nth-child(5) {
-  right: 1px;
-  top: 7px;
-  transform: rotate(24deg);
-}
-
-@keyframes paw-walk {
-  0% {
-    opacity: 0;
-    transform: translateX(-14px) translateY(8px) scale(0.7) rotate(-8deg);
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
   }
-  55% {
-    opacity: 1;
-    transform: translateX(0) translateY(0) scale(1.06) rotate(4deg);
-  }
-  100% {
-    opacity: 0.85;
-    transform: translateX(0) translateY(0) scale(1) rotate(0deg);
+
+  .group,
+  .group *,
+  img {
+    transition-duration: 0.01ms !important;
   }
 }

@@ -8,25 +8,12 @@ type InteractiveFeatureShowcaseProps = {
   features: InteractiveFeature[];
 };
 
-function PawPrint({ direction }: { direction: InteractiveFeature["pawDirection"] }) {
-  return (
-    <span className={`paw-print paw-print--${direction}`} aria-hidden="true">
-      <span />
-      <span />
-      <span />
-      <span />
-      <span />
-    </span>
-  );
-}
-
 export function InteractiveFeatureShowcase({
   features,
 }: InteractiveFeatureShowcaseProps) {
   const [activeIndex, setActiveIndex] = useState(0);
-  const activeFeature = features[activeIndex] ?? features[0];
 
-  if (!activeFeature) return null;
+  if (!features.length) return null;
 
   return (
     <section
@@ -47,26 +34,7 @@ export function InteractiveFeatureShowcase({
           </p>
         </div>
 
-        <div className="relative mt-14 lg:min-h-[860px]">
-          <div
-            key={activeFeature.title}
-            aria-hidden="true"
-            className={[
-              "pointer-events-none hidden lg:absolute lg:z-10 lg:flex lg:items-center lg:justify-between",
-              activeFeature.trailClass,
-            ].join(" ")}
-          >
-            {Array.from({ length: 6 }).map((_, index) => (
-              <span
-                key={index}
-                className="paw-step"
-                style={{ animationDelay: `${index * 110}ms` }}
-              >
-                <PawPrint direction={activeFeature.pawDirection} />
-              </span>
-            ))}
-          </div>
-
+        <div className="relative mt-24 lg:mt-32 lg:min-h-[1040px]">
           <div className="relative z-20 mb-10 grid gap-3 sm:grid-cols-2 lg:static lg:mb-0 lg:block">
             {features.map((feature, index) => {
               const isActive = index === activeIndex;
@@ -79,10 +47,10 @@ export function InteractiveFeatureShowcase({
                   onFocus={() => setActiveIndex(index)}
                   onMouseEnter={() => setActiveIndex(index)}
                   className={[
-                    "group overflow-hidden rounded-[1.6rem] border px-5 py-3 text-left text-sm font-extrabold shadow-sm backdrop-blur transition-all duration-300 ease-out focus-visible:brand-focus lg:absolute lg:z-20 lg:w-56",
+                    "group overflow-hidden rounded-[1.6rem] border px-5 py-3 text-left text-base font-extrabold shadow-sm backdrop-blur transition-all duration-300 ease-out focus-visible:brand-focus lg:absolute lg:z-20 lg:w-60",
                     feature.positionClass,
                     isActive
-                      ? "border-[var(--brand-orange)] bg-[#fff8f4] text-[var(--foreground)] shadow-xl shadow-[rgba(255,90,31,0.18)] ring-2 ring-[rgba(255,90,31,0.16)] lg:w-80"
+                      ? "border-[var(--brand-orange)] bg-[#fff8f4] text-[var(--foreground)] shadow-xl shadow-[rgba(255,90,31,0.18)] ring-2 ring-[rgba(255,90,31,0.16)] lg:w-[21rem]"
                       : "border-white/90 bg-white/85 text-[var(--foreground)] hover:-translate-y-1 hover:border-[var(--brand-orange)] hover:text-[var(--brand-orange)] hover:shadow-md",
                   ].join(" ")}
                   aria-pressed={isActive}
@@ -122,22 +90,49 @@ export function InteractiveFeatureShowcase({
             })}
           </div>
 
-          <div className="relative z-10 mx-auto flex max-w-sm flex-col items-center">
-            <div className="mb-6 rounded-full border border-white/80 bg-white/80 px-5 py-2 text-sm font-extrabold uppercase tracking-[0.18em] text-[var(--brand-orange)] shadow-sm backdrop-blur">
-              We care
+          <div className="relative z-10 mx-auto mt-2 flex max-w-lg flex-col items-center lg:mt-8">
+            <Image
+              src="/assets/personPets-transparent.png"
+              width={1024}
+              height={1024}
+              alt="PetVitals pet parent with pets"
+              className="mb-2 h-auto w-56 -translate-y-16 object-contain drop-shadow-xl sm:w-72 sm:-translate-y-20 lg:-mt-4 lg:-translate-y-28"
+              sizes="(min-width: 640px) 288px, 224px"
+            />
+            <div className="group relative z-20 mb-16 -mt-3 inline-flex flex-col items-center text-3xl font-extrabold uppercase tracking-[0.2em] text-[var(--brand-orange)] sm:text-4xl lg:mb-20 lg:-mt-8">
+              <span className="relative drop-shadow-[0_10px_24px_rgba(255,90,31,0.18)] transition-transform duration-300 group-hover:-translate-y-1">
+                We care
+              </span>
+              <span
+                aria-hidden="true"
+                className="mt-3 h-1.5 w-24 rounded-full bg-[var(--brand-orange)] shadow-[0_10px_28px_rgba(255,90,31,0.28)] transition-all duration-300 group-hover:w-32"
+              />
             </div>
 
-            <div className="relative flex min-h-[630px] w-full items-center justify-center sm:min-h-[760px]">
+            <div className="relative -mt-16 flex min-h-[720px] w-full items-center justify-center sm:-mt-28 sm:min-h-[900px] lg:-mt-56">
               <div className="absolute inset-x-0 top-16 h-96 rounded-full bg-[rgba(8,103,201,0.20)] blur-3xl" />
-              <Image
-                key={activeFeature.image}
-                src={activeFeature.image}
-                width={1080}
-                height={1350}
-                alt={`${activeFeature.title} screen in PetVitals`}
-                className="relative z-10 h-[610px] w-auto object-contain drop-shadow-2xl transition duration-500 ease-out sm:h-[740px]"
-                priority
-              />
+              <div className="relative z-10 h-[700px] w-[min(92vw,384px)] sm:h-[880px] sm:w-[483px]">
+                {features.map((feature, index) => (
+                  <Image
+                    key={feature.image}
+                    src={feature.image}
+                    width={1080}
+                    height={1350}
+                    alt={
+                      index === activeIndex
+                        ? `${feature.title} screen in PetVitals`
+                        : ""
+                    }
+                    aria-hidden={index !== activeIndex}
+                    className={[
+                      "absolute inset-0 h-full w-full object-contain drop-shadow-2xl transition-opacity duration-300 ease-out",
+                      index === activeIndex ? "opacity-100" : "opacity-0",
+                    ].join(" ")}
+                    loading="eager"
+                    sizes="(min-width: 640px) 483px, 384px"
+                  />
+                ))}
+              </div>
             </div>
           </div>
         </div>

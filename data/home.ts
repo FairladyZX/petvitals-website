@@ -24,8 +24,6 @@ export type InteractiveFeature = {
   description: string;
   image: string;
   positionClass: string;
-  trailClass: string;
-  pawDirection: "left" | "right";
 };
 
 export const interactiveFeatures: InteractiveFeature[] = [
@@ -35,8 +33,6 @@ export const interactiveFeatures: InteractiveFeature[] = [
       "Keep appointments, checkups, vaccines, and follow-up care visible in one calm place so the important visits never sneak up on you.",
     image: "/assets/images/RemindersS1.png",
     positionClass: "lg:left-[8%] lg:top-[18%]",
-    trailClass: "lg:left-[20%] lg:top-[24%] lg:w-[25%] lg:rotate-[10deg]",
-    pawDirection: "right",
   },
   {
     title: "Track Pet Walks",
@@ -44,9 +40,6 @@ export const interactiveFeatures: InteractiveFeature[] = [
       "Log walks and activity moments with less friction, helping you understand movement patterns and keep daily care routines on track.",
     image: "/assets/images/petWalk.png",
     positionClass: "lg:right-[7%] lg:top-[16%]",
-    trailClass:
-      "lg:right-[22%] lg:top-[23%] lg:w-[24%] lg:-rotate-[12deg] lg:flex-row-reverse",
-    pawDirection: "left",
   },
   {
     title: "Calendar",
@@ -54,8 +47,6 @@ export const interactiveFeatures: InteractiveFeature[] = [
       "See upcoming and past care events at a glance, from vet visits to recurring routines, with a calendar designed for pet parents.",
     image: "/assets/images/CalendarS4.png",
     positionClass: "lg:left-[2%] lg:top-[43%]",
-    trailClass: "lg:left-[14%] lg:top-[49%] lg:w-[29%] lg:-rotate-[4deg]",
-    pawDirection: "right",
   },
   {
     title: "Record Keeping",
@@ -63,9 +54,6 @@ export const interactiveFeatures: InteractiveFeature[] = [
       "Store key health records, personal details, and important documents so the information your pet needs is always close by.",
     image: "/assets/images/RecordsS5.png",
     positionClass: "lg:right-[2%] lg:top-[43%]",
-    trailClass:
-      "lg:right-[14%] lg:top-[49%] lg:w-[29%] lg:rotate-[4deg] lg:flex-row-reverse",
-    pawDirection: "left",
   },
   {
     title: "Health",
@@ -73,9 +61,6 @@ export const interactiveFeatures: InteractiveFeature[] = [
       "Track diet, activity, weight, and wellness notes in a friendly view that helps you spot patterns without feeling overwhelmed.",
     image: "/assets/images/HealthS2.png",
     positionClass: "lg:left-[13%] lg:bottom-[12%]",
-    trailClass:
-      "lg:left-[24%] lg:bottom-[22%] lg:w-[21%] lg:-rotate-[22deg]",
-    pawDirection: "right",
   },
   {
     title: "Diet Control",
@@ -83,9 +68,6 @@ export const interactiveFeatures: InteractiveFeature[] = [
       "Manage food routines, nutrition notes, and diet details with a simple experience built around everyday consistency.",
     image: "/assets/images/DietS3.png",
     positionClass: "lg:right-[12%] lg:bottom-[12%]",
-    trailClass:
-      "lg:right-[23%] lg:bottom-[22%] lg:w-[22%] lg:rotate-[22deg] lg:flex-row-reverse",
-    pawDirection: "left",
   },
 ];
 
