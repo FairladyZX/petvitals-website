@@ -18,7 +18,7 @@ export function InteractiveFeatureShowcase({
   return (
     <section
       id="features"
-      className="container-px overflow-hidden bg-[var(--brand-sky)] pb-20 pt-10 sm:pb-24 sm:pt-12"
+      className="container-px -mt-8 overflow-hidden bg-[var(--brand-sky)] pb-20 pt-10 sm:-mt-10 sm:pb-24 sm:pt-12 lg:-mt-12"
     >
       <div className="mx-auto max-w-7xl">
         <div className="mx-auto max-w-3xl text-center">
@@ -57,13 +57,17 @@ export function InteractiveFeatureShowcase({
                   aria-expanded={isActive}
                 >
                   <span className="flex items-center gap-3">
-                    <span
+                    <Image
+                      src={feature.icon}
+                      width={56}
+                      height={56}
+                      alt=""
                       aria-hidden="true"
                       className={[
-                        "size-2 rounded-full transition",
+                        "size-9 shrink-0 object-contain drop-shadow-sm transition duration-300",
                         isActive
-                          ? "scale-125 bg-[var(--brand-orange)]"
-                          : "bg-[var(--brand-orange)] group-hover:scale-125",
+                          ? "scale-110"
+                          : "group-hover:scale-110",
                       ].join(" ")}
                     />
                     <span
@@ -110,7 +114,7 @@ export function InteractiveFeatureShowcase({
             </div>
 
             <div className="relative -mt-16 flex min-h-[720px] w-full items-center justify-center sm:-mt-28 sm:min-h-[900px] lg:-mt-56">
-              <div className="absolute inset-x-0 top-16 h-96 rounded-full bg-[rgba(8,103,201,0.20)] blur-3xl" />
+              <div className="absolute inset-x-0 top-20 h-[34rem] rounded-full bg-[rgba(8,103,201,0.20)] blur-3xl sm:h-[44rem]" />
               <div className="relative z-10 h-[700px] w-[min(92vw,384px)] sm:h-[880px] sm:w-[483px]">
                 {features.map((feature, index) => (
                   <Image

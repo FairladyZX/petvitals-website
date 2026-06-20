@@ -23,6 +23,7 @@ export type InteractiveFeature = {
   title: string;
   description: string;
   image: string;
+  icon: string;
   positionClass: string;
 };
 
@@ -32,6 +33,7 @@ export const interactiveFeatures: InteractiveFeature[] = [
     description:
       "Keep appointments, checkups, vaccines, and follow-up care visible in one calm place so the important visits never sneak up on you.",
     image: "/assets/images/RemindersS1.png",
+    icon: "/assets/vetVisits-transparent.png",
     positionClass: "lg:left-[8%] lg:top-[18%]",
   },
   {
@@ -39,6 +41,7 @@ export const interactiveFeatures: InteractiveFeature[] = [
     description:
       "Log walks and activity moments with less friction, helping you understand movement patterns and keep daily care routines on track.",
     image: "/assets/images/petWalk.png",
+    icon: "/assets/walkLeash-transparent.png",
     positionClass: "lg:right-[7%] lg:top-[16%]",
   },
   {
@@ -46,20 +49,23 @@ export const interactiveFeatures: InteractiveFeature[] = [
     description:
       "See upcoming and past care events at a glance, from vet visits to recurring routines, with a calendar designed for pet parents.",
     image: "/assets/images/CalendarS4.png",
-    positionClass: "lg:left-[2%] lg:top-[43%]",
+    icon: "/assets/calendar-transparent.png",
+    positionClass: "lg:left-[2%] lg:top-[49%]",
   },
   {
     title: "Record Keeping",
     description:
       "Store key health records, personal details, and important documents so the information your pet needs is always close by.",
     image: "/assets/images/RecordsS5.png",
-    positionClass: "lg:right-[2%] lg:top-[43%]",
+    icon: "/assets/recordKeeping-transparent.png",
+    positionClass: "lg:right-[2%] lg:top-[49%]",
   },
   {
     title: "Health",
     description:
       "Track diet, activity, weight, and wellness notes in a friendly view that helps you spot patterns without feeling overwhelmed.",
     image: "/assets/images/HealthS2.png",
+    icon: "/assets/healthImage-transparent.png",
     positionClass: "lg:left-[13%] lg:bottom-[12%]",
   },
   {
@@ -67,6 +73,7 @@ export const interactiveFeatures: InteractiveFeature[] = [
     description:
       "Manage food routines, nutrition notes, and diet details with a simple experience built around everyday consistency.",
     image: "/assets/images/DietS3.png",
+    icon: "/assets/dietControl-transparent.png",
     positionClass: "lg:right-[12%] lg:bottom-[12%]",
   },
 ];
