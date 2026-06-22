@@ -13,8 +13,8 @@ export default function Home() {
       <InteractiveFeatureShowcase features={interactiveFeatures} />
 
       <section className="container-px -mt-16 bg-[var(--brand-sky)] pb-20 pt-8 sm:-mt-24 sm:pb-24 sm:pt-10 lg:-mt-32">
-        <div className="mx-auto grid max-w-6xl gap-8">
-          <div className="group rounded-lg bg-white/70 p-5 shadow-sm ring-1 ring-white/70 backdrop-blur sm:p-7">
+        <div className="mx-auto grid max-w-6xl gap-12">
+          <div className="group rounded-lg">
             <div className="relative mx-auto max-w-4xl overflow-hidden rounded-lg shadow-xl shadow-[rgba(8,103,201,0.12)]">
               <Image
                 src="/assets/clutter.png"
@@ -43,7 +43,7 @@ export default function Home() {
               />
             </div>
           </div>
-          <CTASection showImage={false} />
+          <CTASection />
         </div>
       </section>
 

@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 import type { InteractiveFeature } from "@/data/home";
 
@@ -138,6 +139,15 @@ export function InteractiveFeatureShowcase({
                 ))}
               </div>
             </div>
+          </div>
+
+          <div className="relative z-30 -mt-20 flex justify-center sm:-mt-28 lg:absolute lg:bottom-20 lg:left-1/2 lg:mt-0 lg:-translate-x-1/2">
+            <Link
+              href="/features"
+              className="rounded-lg bg-[var(--brand-orange)] px-7 py-3.5 text-base font-extrabold text-white shadow-xl shadow-[rgba(255,90,31,0.22)] transition hover:-translate-y-1 hover:bg-[var(--brand-orange-dark)] focus-visible:brand-focus"
+            >
+              View more
+            </Link>
           </div>
         </div>
       </div>

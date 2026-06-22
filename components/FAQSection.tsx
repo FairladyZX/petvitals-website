@@ -11,7 +11,10 @@ type FAQSectionProps = {
 
 export function FAQSection({ faqs }: FAQSectionProps) {
   return (
-    <section id="faq" className="container-px bg-[var(--brand-sky)] py-20 sm:py-24">
+    <section
+      id="faq"
+      className="container-px bg-[var(--brand-sky)] pb-20 pt-12 sm:pb-24 sm:pt-16"
+    >
       <div className="mx-auto max-w-4xl">
         <SectionHeading
           eyebrow="Frequently asked questions"
